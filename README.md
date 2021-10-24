@@ -1,9 +1,10 @@
 # Chris' Portfolio
 Data Analytics Portfolio
 
-# [Project 1: Analyzing Air Quality During the COVID-19 Pandemic](https://github.com/arp-jain/BA775-team2-b2)
-* Collaborated with five teammates from three different countries and gathered real-time Air Quality data within the OpenAQ database to explore the changes in air quality (AQI and pollutant type levels) between 2019 and 2020 in cities and countries where COVID-19 was most prevalent.
-* Utilized SQL and Tableau to analyze and visualize pollutant and presented key findings and data visualizations through PowerPoint and Tableau Public to stakeholders, receiving a near-perfect score for the project overall.
+# [Project 1: Analyzing Air Quality During the COVID-19 Pandemic](https://github.com/arp-jain/BA775-team2-b2/blob/main/Analyzing-Air-Quality-During-COVID19-Pandemic.ipynb)
+* Background: Air pollution, as one of the most serious environmental problems confronting our civilization, is the presence of toxic gases and particles in the air at levels that pose adverse effects on global climate and lead to public health risk and disease. Exposure to elevated levels of air pollutants has been implicated in a diverse set of medical conditions including cardiovascular and respiratory mortality, lung cancer and autism. Air pollutants come from natural sources such as wildfires and volcanoes, as well as are highly related to human activities from mobile sources (such as cars, buses and planes) or stationary sources (such as industrial factories, power plants and wood burning fireplaces). However, in the past year, the COVID-19 pandemic has caused unprecedented changes to the our work, study and daily activities, subsequently led to major reductions in air pollutant emissions. 
+* Objective: Our team would like take this opportunity to examine the air quality in the past two years and look on how the air quality was impacted in countries and cities where the corona-virus was prevalent.
+
 
 # [Project 2: HR Analytics: Job Change in Data Scientists](https://drive.google.com/file/d/1QZ7JL_gMqoNhOUm_T6ZxJ2yLsemZRjlO/view?usp=sharing)
 * Background: A company which is active in Big Data and Data Science wants to hire data scientists among people who received training. "Company" wants to analyze the factors affecting candiates' decision on staying or looking for a new job after training.
