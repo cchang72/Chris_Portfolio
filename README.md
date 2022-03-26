@@ -10,6 +10,8 @@
 * Background: A company which is active in Big Data and Data Science wants to hire data scientists among people who received training. "Company" wants to analyze the factors affecting candiates' decision on staying or looking for a new job after training.
 * Objective: The project goal is to predict whether a data scientist candidate will look for a new employment or wants to work for the company after training, which helps optimize HR costs and increase efficiencies. By using both descriptive and predictive analysis on a company’s HR dataset, we seek to interpret affecting factors on employee decisions.
 
+![](https://github.com/cchang72/Chris_Portfolio/blob/main/images/AUC.png)
+
 # [Project 3: COVID-19 Impacts on the U.S. Dairy and Meat Industry](https://drive.google.com/file/d/1HObauo-wCtCxM35Kf1AWpPXrQg9cnjk6/view?usp=sharing)
 * Background: On January 30th, 2020, the World Health Organization (W.H.O.) officially declared COVID-19, also known as SARs-Cov-2 as a global pandemic (The New York Times, 2020). As a result, travel bans and shelter-in-place orders were imposed across the United States and worldwide, directly affecting meat and dairy industries in the US.
 * Objective: The project goal is to provide a detailed explanation on the structure and function of the coronavirus, an overview of the virus impacts on the dairy and meat sectors in the US, as well as an analysis on the correlation between CPI and quarterly sales for one of the largest meat processors in the US, Tyson Foods Inc.
