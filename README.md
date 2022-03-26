@@ -1,7 +1,7 @@
 # Chris' Portfolio
 Data Analytics Portfolio
 
-# [Project 1: Analyzing Air Quality During the COVID-19 Pandemic](https://github.com/arp-jain/BA775-team2-b2/blob/main/Analyzing-Air-Quality-During-COVID19-Pandemic.ipynb)
+# [Project 1: Analyzing Air Quality During the COVID-19 Pandemic](https://github.com/cchang72/BA775_Project/blob/main/Analyzing-Air-Quality-During-COVID19-Pandemic.ipynb)
 * Background: Air pollution, as one of the most serious environmental problems confronting our civilization, is the presence of toxic gases and particles in the air at levels that pose adverse effects on global climate and lead to public health risk and disease. Exposure to elevated levels of air pollutants has been implicated in a diverse set of medical conditions including cardiovascular and respiratory mortality, lung cancer and autism. Air pollutants come from natural sources such as wildfires and volcanoes, as well as are highly related to human activities from mobile sources (such as cars, buses and planes) or stationary sources (such as industrial factories, power plants and wood burning fireplaces). However, in the past year, the COVID-19 pandemic has caused unprecedented changes to the our work, study and daily activities, subsequently led to major reductions in air pollutant emissions. 
 * Objective: Our team would like take this opportunity to examine the air quality in the past two years and look on how the air quality was impacted in countries and cities where the corona-virus was prevalent.
 
