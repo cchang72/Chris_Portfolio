@@ -14,6 +14,8 @@
 * Background: On January 30th, 2020, the World Health Organization (W.H.O.) officially declared COVID-19, also known as SARs-Cov-2 as a global pandemic (The New York Times, 2020). As a result, travel bans and shelter-in-place orders were imposed across the United States and worldwide, directly affecting meat and dairy industries in the US.
 * Objective: The project goal is to provide a detailed explanation on the structure and function of the coronavirus, an overview of the virus impacts on the dairy and meat sectors in the US, as well as an analysis on the correlation between CPI and quarterly sales for one of the largest meat processors in the US, Tyson Foods Inc.
 
+![](https://github.com/cchang72/Chris_Portfolio/blob/main/images/CPI%20vs%20Sales.png)
+
 # [Project 4: Car Listing Price Predictions on eBay](https://drive.google.com/file/d/15HxiVBXiYmhRjc-_PEGE3bWwzv_pepYt/view?usp=sharing)
 * Background and Objective: The project goal is to predict listing price of used cars on eBay based on several predictors such as vehicle type, gearbox, fuel type, and kilometers on car. Doing so allows us to provide insight/guidance for future buyers and sellers on the prices they should list or bid on eBay for used cars. 
 
