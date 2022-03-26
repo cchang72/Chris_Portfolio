@@ -16,12 +16,12 @@
 * Background: On January 30th, 2020, the World Health Organization (W.H.O.) officially declared COVID-19, also known as SARs-Cov-2 as a global pandemic (The New York Times, 2020). As a result, travel bans and shelter-in-place orders were imposed across the United States and worldwide, directly affecting meat and dairy industries in the US.
 * Objective: The project goal is to provide a detailed explanation on the structure and function of the coronavirus, an overview of the virus impacts on the dairy and meat sectors in the US, as well as an analysis on the correlation between CPI and quarterly sales for one of the largest meat processors in the US, Tyson Foods Inc.
 
-<img src="https://github.com/cchang72/Chris_Portfolio/blob/main/images/CPI%20vs%20Sales.png" width="800" height="500">
+<img src="https://github.com/cchang72/Chris_Portfolio/blob/main/images/CPI%20vs%20Sales.png" width="1000" height="500">
 
 # [Project 4: Car Listing Price Predictions on eBay](https://drive.google.com/file/d/15HxiVBXiYmhRjc-_PEGE3bWwzv_pepYt/view?usp=sharing)
 * Background and Objective: The project goal is to predict listing price of used cars on eBay based on several predictors such as vehicle type, gearbox, fuel type, and kilometers on car. Doing so allows us to provide insight/guidance for future buyers and sellers on the prices they should list or bid on eBay for used cars. 
 
-<img src="https://github.com/cchang72/Chris_Portfolio/blob/main/images/Fuel.png" width="500" height="500">
+<img src="https://github.com/cchang72/Chris_Portfolio/blob/main/images/Fuel.png" width="500" height="400">
 
 # [Project 5: Drowsiness Detection](https://drive.google.com/file/d/14h99ko7TUsKLRc8aeSxdBlfLInaqLLt2/view?usp=sharing)
 * Background and Objective: According to the National Highway Traffic Safety Administration, there are approximately 100,000 car crashes, 800 fatalities, and 50,000 injuries every year related to drowsy-driving in the US (nsc, n.d.). To help combat this issue, our team decided to come up with image classification algorithms trained on 4000 images with two classes, open and closed, to detect whether a person's eyes are open or not. We hope this would be the first step to more improved algorithms to come in reducing the number of drowsy-driving fatalities not only in the US but worldwide as well.
