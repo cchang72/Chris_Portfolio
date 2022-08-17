@@ -39,7 +39,7 @@
 
 <img src="https://github.com/cchang72/ba870-project/blob/9218f4232da9482143cb3e1bb42d837f373e9aba/Screen%20Shot%202022-04-28%20at%203.33.06%20PM.png" width = "1000" height="500">
 
-# [Project 7: Diabetes Detection] (https://colab.research.google.com/drive/1nQkV9zzQi_gjnp5MN8J1jmZ8s7pckxA3?usp=sharing)
+# [Project 7: Diabetes Detection](https://colab.research.google.com/drive/1nQkV9zzQi_gjnp5MN8J1jmZ8s7pckxA3?usp=sharing)
 * Background: Diabetes is one of the most prevalent diseases in the United States. The Centers for Disease Control (CDC) approximates that 34.2 million Americans have diabetes and 88 million have prediabetes. Furthermore, Diabetes creates a massive burden on the overall economy, with diabetes-related costs of approximately 327 billion dollars. Diabetes is characterized by the lack of ability to regulate blood glucose levels. Specifically, when food is broken down into sugars and released into the bloodstream, the pancreas releases insulin, a hormone that turns the sugars into energy. Diabetes causes the body to not produce enough insulin levels or not able to utilize insulin effectively. This can lead to diseases related to the heart, vision, and kidney.
 * Objective: In this project, I aim to detect risk factors that are most highly correlated with diabetes as well as use ML models to predict whether an individual has diabetes through these risk factors.
 * Tools: Python (pandas, numpy, matplotlib, seaborn, scikit-learn), Google Colaboratory Notebook
