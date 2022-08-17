@@ -44,4 +44,4 @@
 * Objective: In this project, I aim to detect risk factors that are most highly correlated with diabetes as well as use ML models to predict whether an individual has diabetes through these risk factors.
 * Tools: Python (pandas, numpy, matplotlib, seaborn, scikit-learn), Google Colaboratory Notebook
 
-<img src="https://github.com/cchang72/Chris_Portfolio/blob/main/images/featureimportance.png" width = "1000" height="500">
+<img src="https://github.com/cchang72/Chris_Portfolio/blob/main/images/featureimportance.png" width = "500" height="500">
