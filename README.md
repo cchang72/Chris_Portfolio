@@ -33,9 +33,9 @@
 
 <img src="https://github.com/cchang72/Chris_Portfolio/blob/main/images/BA%20865%20final%20presentation.png" width="800" height="500">
 
-# [Project 6: Financial and Accounting Analytics of Stock Returns (Early 2022 Market Shock)](https://github.com/cchang72/ba870-project.git) 
+# [Project 6: Financial and Accounting Analytics of Stock Returns (Early 2022 Market Shock)](https://github.com/cchang72/BA870_Project/blob/main/Project%20-%20Chris%20Chang.ipynb)
 * Background/Objective: It is apparent that the stock market shock in early 2022 was mainly caused by the COVID pandemic. However, what exactly were the factors that influenced the stock returns during the early market shock in 2022? In this project, I've analyzed stock returns using three indicators: Financial ratios, Fama-French risk factors, and Industry indicators to explain the impact of each indicator on stock returns and gave suggestions on what indicators to focus on when investing in a stock. 
-* Tools: Python/Google Colaboratory Notebook
+* Tools: Python (pandas, numpy, matplotlib, seaborn, statmodels)/Google Colaboratory Notebook
 
 <img src="https://github.com/cchang72/ba870-project/blob/9218f4232da9482143cb3e1bb42d837f373e9aba/Screen%20Shot%202022-04-28%20at%203.33.06%20PM.png" width = "1000" height="500">
 
