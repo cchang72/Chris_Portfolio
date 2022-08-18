@@ -22,25 +22,25 @@ so we also had to keep in mind the number of participants from each gender.
 
 <img src="https://github.com/cchang72/Chris_Portfolio/blob/main/images/Control%20group%20female.png" width="400" height="500">
 
-# [Project 3: Car Listing Price Predictions on eBay](https://github.com/cchang72/BA_810/blob/main/BA810_Team6_Cars_Listing_Predictions.pdf) 
+# [Project 4: Car Listing Price Predictions on eBay](https://github.com/cchang72/BA_810/blob/main/BA810_Team6_Cars_Listing_Predictions.pdf) 
 * Background/Objective: The project goal is to predict listing price of used cars on eBay based on several predictors such as vehicle type, gearbox, fuel type, and kilometers on car. Doing so allows us to provide insight/guidance for future buyers and sellers on the prices they should list or bid on eBay for used cars. 
 * Tools: RStudio (data.table, ggplot2, glmnet, randomForest)
 
 <img src="https://github.com/cchang72/Chris_Portfolio/blob/main/images/Fuel.png" width="500" height="400">
 
-# [Project 4: Drowsiness Detection](https://github.com/cchang72/BA865_Project/blob/main/BA_865_Final_Project_v2.ipynb)
+# [Project 5: Drowsiness Detection](https://github.com/cchang72/BA865_Project/blob/main/BA_865_Final_Project_v2.ipynb)
 * Background/Objective: According to the National Highway Traffic Safety Administration, there are approximately 100,000 car crashes, 800 fatalities, and 50,000 injuries every year related to drowsy-driving in the US (nsc, n.d.). To help combat this issue, our team decided to come up with image classification algorithms trained on 4000 images with two classes, open and closed, to detect whether a person's eyes are open or not. We hope this would be the first step to more improved algorithms to come in reducing the number of drowsy-driving fatalities not only in the US but worldwide as well.
 * Tools: Python (Tensorflow/Keras)/Google Colaboratory Notebook
 
 <img src="https://github.com/cchang72/Chris_Portfolio/blob/main/images/closes.PNG" width="500" height="450">
 
-# [Project 5: Financial and Accounting Analytics of Stock Returns (Early 2022 Market Shock)](https://github.com/cchang72/BA870_Project/blob/main/Project%20-%20Chris%20Chang.ipynb)
+# [Project 6: Financial and Accounting Analytics of Stock Returns (Early 2022 Market Shock)](https://github.com/cchang72/BA870_Project/blob/main/Project%20-%20Chris%20Chang.ipynb)
 * Background/Objective: It is apparent that the stock market shock in early 2022 was mainly caused by the COVID pandemic. However, what exactly were the factors that influenced the stock returns during the early market shock in 2022? In this project, I've analyzed stock returns using three indicators: Financial ratios, Fama-French risk factors, and Industry indicators to explain the impact of each indicator on stock returns and gave suggestions on what indicators to focus on when investing in a stock. 
 * Tools: Python (pandas, numpy, matplotlib, seaborn, statmodels)/Google Colaboratory Notebook
 
 <img src="https://github.com/cchang72/ba870-project/blob/9218f4232da9482143cb3e1bb42d837f373e9aba/Screen%20Shot%202022-04-28%20at%203.33.06%20PM.png" width = "1000" height="500">
 
-# [Project 6: Diabetes Detection](https://github.com/cchang72/BA890_Project/blob/main/BA890_Diabetes_Detection_(Chris_Chang).ipynb)
+# [Project 7: Diabetes Detection](https://github.com/cchang72/BA890_Project/blob/main/BA890_Diabetes_Detection_(Chris_Chang).ipynb)
 * Background: Diabetes is one of the most prevalent diseases in the United States. The Centers for Disease Control (CDC) approximates that 34.2 million Americans have diabetes and 88 million have prediabetes. Furthermore, Diabetes creates a massive burden on the overall economy, with diabetes-related costs of approximately 327 billion dollars. Diabetes is characterized by the lack of ability to regulate blood glucose levels. Specifically, when food is broken down into sugars and released into the bloodstream, the pancreas releases insulin, a hormone that turns the sugars into energy. Diabetes causes the body to not produce enough insulin levels or not able to utilize insulin effectively. This can lead to diseases related to the heart, vision, and kidney.
 * Objective: In this project, I aim to detect risk factors that are most highly correlated with diabetes as well as use ML models to predict whether an individual has diabetes through these risk factors.
 * Tools: Python (pandas, numpy, matplotlib, seaborn, scikit-learn), Google Colaboratory Notebook
