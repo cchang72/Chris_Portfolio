@@ -21,7 +21,7 @@
 
 <img src="https://github.com/cchang72/Chris_Portfolio/blob/main/images/CPI%20vs%20Sales.png" width="800" height="300">
 
-# [Project 4: Car Listing Price Predictions on eBay](https://drive.google.com/file/d/15HxiVBXiYmhRjc-_PEGE3bWwzv_pepYt/view?usp=sharing) 
+# [Project 4: Car Listing Price Predictions on eBay](https://github.com/cchang72/BA_810/blob/main/BA810_Team6_Cars_Listing_Predictions.pdf) 
 * Background/Objective: The project goal is to predict listing price of used cars on eBay based on several predictors such as vehicle type, gearbox, fuel type, and kilometers on car. Doing so allows us to provide insight/guidance for future buyers and sellers on the prices they should list or bid on eBay for used cars. 
 * Tools: RStudio (data.table, ggplot2, glmnet, randomForest)
 
