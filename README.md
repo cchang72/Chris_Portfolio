@@ -7,7 +7,7 @@
 
 <img src="https://github.com/cchang72/Chris_Portfolio/blob/main/images/Air%20Quality%20Global%20Level.png" width="1500" height="500">
 
-# [Project 2: HR Analytics: Job Change in Data Scientists](https://drive.google.com/file/d/1QZ7JL_gMqoNhOUm_T6ZxJ2yLsemZRjlO/view?usp=sharing)
+# [Project 2: HR Analytics: Job Change in Data Scientists](https://github.com/cchang72/BA780_Project/blob/main/BA780_Deliverable_Finalization.ipynb)
 * Background: A company which is active in Big Data and Data Science wants to hire data scientists among people who received training. "Company" wants to analyze the factors affecting candiates' decision on staying or looking for a new job after training.
 * Objective: The project goal is to predict whether a data scientist candidate will look for a new employment or wants to work for the company after training, which helps optimize HR costs and increase efficiencies. By using both descriptive and predictive analysis on a company’s HR dataset, we seek to interpret affecting factors on employee decisions.
 * Tools: Python (Pandas, matplotlib, seaborn, numpy, scikit-learn)/Google Colaboratory Notebook
