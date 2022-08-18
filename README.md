@@ -20,7 +20,7 @@
 so we also had to keep in mind the number of participants from each gender.
 * Tools: RStudio (data.table, tidyverse, modelsummary)
 
-<img src='https://github.com/cchang72/Chris_Portfolio/blob/main/images/Control%20group%20female.png' width="400", height "400">
+<img src="https://github.com/cchang72/Chris_Portfolio/blob/main/images/Control%20group%20female.png" width="400", height "400">
 
 
 # [Project 3: Car Listing Price Predictions on eBay](https://github.com/cchang72/BA_810/blob/main/BA810_Team6_Cars_Listing_Predictions.pdf) 
