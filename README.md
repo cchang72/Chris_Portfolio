@@ -31,7 +31,7 @@
 * Background/Objective: According to the National Highway Traffic Safety Administration, there are approximately 100,000 car crashes, 800 fatalities, and 50,000 injuries every year related to drowsy-driving in the US (nsc, n.d.). To help combat this issue, our team decided to come up with image classification algorithms trained on 4000 images with two classes, open and closed, to detect whether a person's eyes are open or not. We hope this would be the first step to more improved algorithms to come in reducing the number of drowsy-driving fatalities not only in the US but worldwide as well.
 * Tools: Python (Tensorflow/Keras)/Google Colaboratory Notebook
 
-<img src="https://github.com/cchang72/Chris_Portfolio/blob/main/images/BA%20865%20final%20presentation.png" width="800" height="500">
+<img src="https://github.com/cchang72/Chris_Portfolio/blob/main/images/closes.PNG" width="500" height="500">
 
 # [Project 6: Financial and Accounting Analytics of Stock Returns (Early 2022 Market Shock)](https://github.com/cchang72/BA870_Project/blob/main/Project%20-%20Chris%20Chang.ipynb)
 * Background/Objective: It is apparent that the stock market shock in early 2022 was mainly caused by the COVID pandemic. However, what exactly were the factors that influenced the stock returns during the early market shock in 2022? In this project, I've analyzed stock returns using three indicators: Financial ratios, Fama-French risk factors, and Industry indicators to explain the impact of each indicator on stock returns and gave suggestions on what indicators to focus on when investing in a stock. 
