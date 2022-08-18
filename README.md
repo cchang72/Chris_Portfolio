@@ -12,7 +12,7 @@
 * Objective: The project goal is to predict whether a data scientist candidate will look for a new employment or wants to work for the company after training, which helps optimize HR costs and increase efficiencies. By using both descriptive and predictive analysis on a company’s HR dataset, we seek to interpret affecting factors on employee decisions.
 * Tools: Python (Pandas, matplotlib, seaborn, numpy, scikit-learn)/Google Colaboratory Notebook
 
-<img src="https://github.com/cchang72/Chris_Portfolio/blob/main/images/AUC.png" width="400" height="400">
+<img src="https://github.com/cchang72/Chris_Portfolio/blob/main/images/feature%20importance.png" width="400" height="400">
 
 # [Project 3: Car Listing Price Predictions on eBay](https://github.com/cchang72/BA_810/blob/main/BA810_Team6_Cars_Listing_Predictions.pdf) 
 * Background/Objective: The project goal is to predict listing price of used cars on eBay based on several predictors such as vehicle type, gearbox, fuel type, and kilometers on car. Doing so allows us to provide insight/guidance for future buyers and sellers on the prices they should list or bid on eBay for used cars. 
