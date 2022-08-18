@@ -14,6 +14,8 @@
 
 <img src="https://github.com/cchang72/Chris_Portfolio/blob/main/images/feature%20importance.png" width="500" height="450">
 
+# [Project 3: Fashion Brand Experiment}(https://github.com/cchang72/BA830_Project/blob/main/BA830_Fashion%20Brands%20Experiment_Write%20up_Chris%20Chang%2C%20Yesol%20Lee%2C%20Yongxian%20Lun%2C%20Linh%20To.pdf)
+
 # [Project 3: Car Listing Price Predictions on eBay](https://github.com/cchang72/BA_810/blob/main/BA810_Team6_Cars_Listing_Predictions.pdf) 
 * Background/Objective: The project goal is to predict listing price of used cars on eBay based on several predictors such as vehicle type, gearbox, fuel type, and kilometers on car. Doing so allows us to provide insight/guidance for future buyers and sellers on the prices they should list or bid on eBay for used cars. 
 * Tools: RStudio (data.table, ggplot2, glmnet, randomForest)
