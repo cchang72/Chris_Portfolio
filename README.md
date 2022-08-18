@@ -27,7 +27,7 @@
 
 <img src="https://github.com/cchang72/Chris_Portfolio/blob/main/images/Fuel.png" width="500" height="400">
 
-# [Project 5: Drowsiness Detection](https://drive.google.com/file/d/14h99ko7TUsKLRc8aeSxdBlfLInaqLLt2/view?usp=sharing)
+# [Project 5: Drowsiness Detection](https://github.com/cchang72/BA865_Project/blob/main/BA_865_Final_Project_v2.ipynb)
 * Background/Objective: According to the National Highway Traffic Safety Administration, there are approximately 100,000 car crashes, 800 fatalities, and 50,000 injuries every year related to drowsy-driving in the US (nsc, n.d.). To help combat this issue, our team decided to come up with image classification algorithms trained on 4000 images with two classes, open and closed, to detect whether a person's eyes are open or not. We hope this would be the first step to more improved algorithms to come in reducing the number of drowsy-driving fatalities not only in the US but worldwide as well.
 * Tools: Python (Tensorflow/Keras)/Google Colaboratory Notebook
 
