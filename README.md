@@ -53,4 +53,4 @@ so we also had to keep in mind the number of participants from each gender.
 * Objective: This project aims to determine how maple syrup production in gallons is affected by drought and precipitation factors. Our primary focus will be on the Northeast region, precisely seven states, including Massachusetts, Maine, Vermont, New Hampshire, New York, Connecticut, and Pennsylvania. The New England region is well known for its maple syrup production, and hence we will delve deeper into that area. We will analyze variables such as the annual crop production of maple syrup and other parameters related to climate change. Furthermore, this report will further explain the impact of drought on maple tree production.
 * Tools: Python (pandas, numpy, matplotlib, statsmodels, seaborn), Google Colaboratory Notebook
 
-<img src="https://github.com/cchang72/Chris_Portfolio/blob/main/images/capstone%20screenshot.JPG" width = "550" height="600">
+<img src="https://github.com/cchang72/Chris_Portfolio/blob/main/images/capstone%20screenshot.JPG" width = "500" height="400">
