@@ -4,14 +4,14 @@ A portfolio of all the projects I have done to showcase my data analytics skills
 ## [Project 1: Analyzing Air Quality During the COVID-19 Pandemic](https://github.com/cchang72/BA775_Project/blob/main/Analyzing-Air-Quality-During-COVID19-Pandemic.ipynb)
 * Background: Air pollution, as one of the most serious environmental problems confronting our civilization, is the presence of toxic gases and particles in the air at levels that pose adverse effects on global climate and lead to public health risk and disease. Exposure to elevated levels of air pollutants has been implicated in a diverse set of medical conditions including cardiovascular and respiratory mortality, lung cancer and autism. Air pollutants come from natural sources such as wildfires and volcanoes, as well as are highly related to human activities from mobile sources (such as cars, buses and planes) or stationary sources (such as industrial factories, power plants and wood burning fireplaces). However, in the past year, the COVID-19 pandemic has caused unprecedented changes to the our work, study and daily activities, subsequently led to major reductions in air pollutant emissions. 
 * Objective: To examine the air quality in the past two years and look on how the air quality was impacted in countries and cities where the corona-virus was prevalent.
-* Tools: SQL/Tableau/Google Cloud (Big Query, Jupyter Notebook)
+* Tools: SQL, Tableau, Google Cloud (Big Query, Jupyter Notebook)
 
 <img src="https://github.com/cchang72/Chris_Portfolio/blob/main/images/Air%20Quality%20Global%20Level.png" width="1500" height="500">
 
 ## [Project 2: HR Analytics: Job Change in Data Scientists](https://github.com/cchang72/BA780_Project/blob/main/BA780_Deliverable_Finalization.ipynb)
 * Background: A company which is active in Big Data and Data Science wants to hire data scientists among people who received training. "Company" wants to analyze the factors affecting candiates' decision on staying or looking for a new job after training.
 * Objective: The project goal is to predict whether a data scientist candidate will look for a new employment or wants to work for the company after training, which helps optimize HR costs and increase efficiencies. By using both descriptive and predictive analysis on a company’s HR dataset, we seek to interpret affecting factors on employee decisions.
-* Tools: Python (Pandas, matplotlib, seaborn, numpy, scikit-learn)/Google Colaboratory Notebook
+* Tools: Python (Pandas, matplotlib, seaborn, numpy, scikit-learn), Google Colaboratory Notebook
 
 <img src="https://github.com/cchang72/Chris_Portfolio/blob/main/images/feature%20importance.png" width="500" height="450">
 
@@ -31,13 +31,13 @@ so we also had to keep in mind the number of participants from each gender.
 
 ## [Project 5: Drowsiness Detection](https://github.com/cchang72/BA865_Project/blob/main/BA_865_Final_Project_v2.ipynb)
 * Background/Objective: According to the National Highway Traffic Safety Administration, there are approximately 100,000 car crashes, 800 fatalities, and 50,000 injuries every year related to drowsy-driving in the US (nsc, n.d.). To help combat this issue, our team decided to come up with image classification algorithms trained on 4000 images with two classes, open and closed, to detect whether a person's eyes are open or not. We hope this would be the first step to more improved algorithms to come in reducing the number of drowsy-driving fatalities not only in the US but worldwide as well.
-* Tools: Python (Tensorflow/Keras)/Google Colaboratory Notebook
+* Tools: Python (Tensorflow/Keras), Google Colaboratory Notebook
 
 <img src="https://github.com/cchang72/Chris_Portfolio/blob/main/images/closes.PNG" width="400" height="350">
 
 ## [Project 6: Financial and Accounting Analytics of Stock Returns (Early 2022 Market Shock)](https://github.com/cchang72/BA870_Project/blob/main/Project%20-%20Chris%20Chang.ipynb)
 * Background/Objective: It is apparent that the stock market shock in early 2022 was mainly caused by the COVID pandemic. However, what exactly were the factors that influenced the stock returns during the early market shock in 2022? In this project, I've analyzed stock returns using three indicators: Financial ratios, Fama-French risk factors, and Industry indicators to explain the impact of each indicator on stock returns and gave suggestions on what indicators to focus on when investing in a stock. 
-* Tools: Python (pandas, numpy, matplotlib, seaborn, statmodels)/Google Colaboratory Notebook
+* Tools: Python (pandas, numpy, matplotlib, seaborn, statmodels), Google Colaboratory Notebook
 
 <img src="https://github.com/cchang72/ba870-project/blob/9218f4232da9482143cb3e1bb42d837f373e9aba/Screen%20Shot%202022-04-28%20at%203.33.06%20PM.png" width = "1000" height="500">
 
@@ -47,3 +47,10 @@ so we also had to keep in mind the number of participants from each gender.
 * Tools: Python (pandas, numpy, matplotlib, seaborn, scikit-learn), Google Colaboratory Notebook
 
 <img src="https://github.com/cchang72/Chris_Portfolio/blob/main/images/featureimportance.png" width = "500" height="500">
+
+## [Project 8 (Capstone Project): Drought Impact on Maple Syrup Production](https://github.com/cchang72/Capstone/blob/main/Capstone%20Final%20Report%20-%20Maple%20Syrup.pdf)
+* Background: Maple and the maple industry are synonymous with the New England region’s sugar houses and mountainsides with colorful leaves in the fall. The economic value of maple syrup hit $130 million back in 2015. However, the maple syrup industry is still rapidly growing. According to ReportLinker, the global maple syrup market is expected to grow by $402.61 million during 2021 to 2025, progressing at a CAGR of 6%. Beyond producing maple products, the maple industry contributes to the maple timber and fall foliage tourism industry, making it the fourth most valued agricultural commodity and the second most valued crop, closely behind greenhouses and nurseries. However, the growth of maple trees and maple syrup production is sensitive to climate change. One main concern for maple tree growers and maple syrup producers is the impact of warming spring temperature during the critical sugaring period and increase in summer drought frequencies which affect the maple syrup yield and sugar content, and the flavor of maple products. Understanding how climate changes and other factors may impact this resource is essential to continue the management of the maple industry into the future.
+* Objective: This project aims to determine how maple syrup production in gallons is affected by drought and precipitation factors. Our primary focus will be on the Northeast region, precisely seven states, including Massachusetts, Maine, Vermont, New Hampshire, New York, Connecticut, and Pennsylvania. The New England region is well known for its maple syrup production, and hence we will delve deeper into that area. We will analyze variables such as the annual crop production of maple syrup and other parameters related to climate change. Furthermore, this report will further explain the impact of drought on maple tree production.
+* Tools: Python (pandas, numpy, matplotlib, statsmodels, seaborn), Google Colaboratory Notebook
+
+<img src="https://github.com/cchang72/Chris_Portfolio/blob/main/images/capstone%20screenshot.JPG" width = "500" height="500">
